@@ -64,20 +64,6 @@ This is a fully responsive, single-page academic portfolio website designed to s
 
 ---
 
-## ✏️ How to Update E-Materials
-
-To add or update PDF links in the E-Materials section, open `index.html` and find the section with `id="ematerials"`. For each material card, update the following three fields:
-
-```html
-<h3 class="pub-title">Your Document Title</h3>
-<div class="pub-venue">Subject / Course Name · Year</div>
-<a class="pub-doi" href="./pdfs/your-file.pdf" target="_blank">Download PDF ↗</a>
-```
-
-Place the corresponding PDF files inside the `pdfs/` folder.
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** — Page structure and content
